@@ -2,6 +2,6 @@
 
 2- cd Fase0
 
-3- Terraform init, Terraform plan, Terraform validate, Terraform apply
+3- Terraform init, Terraform validate, Terraform apply
 
 4- Una vez levantada la intancia, entrar a http://ipinstancia:3000
