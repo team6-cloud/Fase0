@@ -1,4 +1,4 @@
-1- Hacer clone de https://github.com/team6-cloud/Fase0.git
+1- Una vez en Virginia, hacer clone de https://github.com/team6-cloud/Fase0.git
 
 2- cd Fase0
 
